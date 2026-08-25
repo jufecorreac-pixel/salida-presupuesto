@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "nombre": "Opción 1",
+    "url": "https://www.airbnb.com.co/rooms/1664239356198635344?adults=2&check_in=2026-08-28&check_out=2026-08-30"
+  },
+  {
+    "nombre": "Opción 2",
+    "url": "https://www.airbnb.com.co/rooms/1420462426839673421?adults=2&check_in=2026-08-28&check_out=2026-08-30"
+  },
+  {
+    "nombre": "Opción 3",
+    "url": "https://www.airbnb.com.co/rooms/1293495856414425359?adults=2&check_in=2026-08-28&check_out=2026-08-30"
+  }
+]
